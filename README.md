@@ -7,7 +7,6 @@
 基于多传感器智能服装的宠物全生命周期健康管理平台
 
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()</div>
 
 </div>
 
